@@ -16,62 +16,13 @@ PF DND Character
 * **Frontier Healer**: You make your way in life by putting people back together after the rigors of the world take their toll—brewing herbal remedies, setting broken bones, and treating diseases. You gain a +1 trait bonus on all Heal and Knowledge (nature) checks, and one of these skills is always a class skill for you. Any time you restore hit points using the Heal skill or a cure spell (but not with channeled energy, lay on hands, or a magic device such as a potion or wand), you restore 1 additional hit point, plus 1 for every 2 class levels you have beyond 1st.
 * **[Without a Past](https://www.d20pfsrd.com/traits/social-traits/without-a-past/)**: *Linguistics*. You earn +1 trait bonus to Bluff and Linguistics when used to forge documents, and choose one as a class skill.
 # Class - Oracle
+* **Level**: 1
 * **Archetypes**: [Elementalist](https://www.d20pfsrd.com/classes/base-classes/oracle/archetypes/paizo-oracle-archetypes/elementalist-oracle)
 * **Mystery**: [Nature](https://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/nature/)
 * **Curse**: [Blackened](https://www.d20pfsrd.com/classes/base-classes/Oracle/oracle-curses/#Blackened)
 ## Revelation
 * **[Elemental Linguist](https://www.d20pfsrd.com/classes/base-classes/oracle/archetypes/paizo-oracle-archetypes/elementalist-oracle) (Su)**: At 1st level, you gain a bonus language of your choice from the following list: Aquan, Auran, Ignan, or Terran. At 5th level and every 4 levels thereafter, you may choose another language from this list.
 * **[Nature’s Whispers](https://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/nature/) (Ex)**: You have become so attuned to the whispers of the natural world, from the croaking of frogs to the groaning of great boulders, that your surroundings constantly keep you preternaturally aware of danger. You may add your Charisma modifier, instead of your Dexterity modifier, to your Armor Class and CMD. Any condition that would cause you to lose your Dexterity modifier to your Armor Class instead causes you to lose your Charisma modifier to your Armor Class.
-## Spells
-*Spells per Day*
-
-| Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|---|---|---|---|---|---|---|---|---|---|
-| <span style="color:green"> 1st </span> | 3 | - | - | - | - | - | - | - | - |
-| 2nd | 4 | - | - | - | - | - | - | - | - |
-| 3rd | 5 | 2 | - | - | - | - | - | - | - |
-| 4th | 6 | 3 | - | - | - | - | - | - | - |
-| 5th | 6 | 4 | 2 | - | - | - | - | - | - |
-| 6th | 6 | 5 | 3 | - | - | - | - | - | - |
-| 7th | 6 | 6 | 4 | 2 | - | - | - | - | - |
-| 8th | 6 | 6 | 5 | 3 | - | - | - | - | - |
-| 9th | 6 | 6 | 6 | 4 | 2 | - | - | - | - |
-| 10th | 6 | 6 | 6 | 5 | 3 | - | - | - | - |
-| 11th | 6 | 6 | 6 | 6 | 4 | 2 | - | - | - |
-| 12th | 6 | 6 | 6 | 6 | 5 | 3 | - | - | - |
-| 13th | 6 | 6 | 6 | 6 | 6 | 4 | 2 | - | - |
-| 14th | 6 | 6 | 6 | 6 | 6 | 5 | 3 | - | - |
-| 15th | 6 | 6 | 6 | 6 | 6 | 6 | 4 | 2 | - |
-| 16th | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 | - |
-| 17th | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 | 2 |
-| 18th | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 |
-| 19th | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 |
-| 20th | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 |
-
-*Spells Known*
-
-| Level | 0th | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|---|---|---|---|---|---|---|---|---|---|---|
-| <span style="color:green"> 1st </span> | 4 | 2 | - | - | - | - | - | - | - | - |
-| 2nd | 5 | 2 | - | - | - | - | - | - | - | - |
-| 3rd | 5 | 3 | 1 | - | - | - | - | - | - | - |
-| 4th | 6 | 3 | 2 | - | - | - | - | - | - | - |
-| 5th | 6 | 4 | 2 | 1 | - | - | - | - | - | - |
-| 6th | 7 | 4 | 3 | 2 | - | - | - | - | - | - |
-| 7th | 7 | 5 | 3 | 2 | 1 | - | - | - | - | - |
-| 8th | 8 | 5 | 4 | 3 | 2 | - | - | - | - | - |
-| 9th | 8 | 5 | 4 | 3 | 2 | 1 | - | - | - | - |
-| 10th | 9 | 5 | 5 | 4 | 3 | 2 | - | - | - | - |
-| 11th | 9 | 5 | 5 | 4 | 3 | 2 | 1 | - | - | - |
-| 12th | 9 | 5 | 5 | 4 | 4 | 3 | 2 | - | - | - |
-| 13th | 9 | 5 | 5 | 4 | 4 | 3 | 2 | 1 | - | - |
-| 14th | 9 | 5 | 5 | 4 | 4 | 4 | 4 | 2 | - | - |
-| 15th | 9 | 5 | 5 | 4 | 4 | 4 | 4 | 2 | 1 | - |
-| 16th | 9 | 5 | 5 | 4 | 4 | 4 | 4 | 3 | 2 | - |
-| 17th | 9 | 5 | 5 | 4 | 4 | 4 | 4 | 3 | 2 | 1 |
-| 18th | 9 | 5 | 5 | 4 | 4 | 4 | 4 | 3 | 3 | 2 |
-| 19th | 9 | 5 | 5 | 4 | 4 | 4 | 4 | 3 | 3 | 3 |
-| 20th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 3 | 3 |
-
+## Spells - [Spontaneous](../lib/hr-spontaneous.md)
 * **Orisons** - Create Water, Detect Magic, Enhanced Diplomacy, Light
 * **1st** - Burning Hands, Cure Light Wounds, Shield of Faith
