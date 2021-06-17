@@ -31,4 +31,7 @@ TODO: Backstory
 | Spells known | 4 | 2 | - | - | - | - | - | - | - | - |
 
 * **Orisons** - Create Water, Detect Magic, Enhanced Diplomacy, Light
-* **1st** - Burning Hands, Cure Light Wounds, Shield of Faith
+* **1st** - Burning Hands, Cure Light Wounds, Shield of Faith, TODO: Pick one more spell
+
+## Feats
+* [Extra Revelation](https://www.d20pfsrd.com/feats/general-feats/extra-revelation-1/) - [Nature’s Whispers](https://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/nature/)
