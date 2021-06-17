@@ -23,7 +23,7 @@ TODO: Backstory
 ## Revelation
 * **[Elemental Linguist](https://www.d20pfsrd.com/classes/base-classes/oracle/archetypes/paizo-oracle-archetypes/elementalist-oracle) (Su)**: At 1st level, you gain a bonus language of your choice from the following list: Aquan, Auran, Ignan, or Terran. At 5th level and every 4 levels thereafter, you may choose another language from this list.
 * **[Nature’s Whispers](https://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/nature/) (Ex)**: You have become so attuned to the whispers of the natural world, from the croaking of frogs to the groaning of great boulders, that your surroundings constantly keep you preternaturally aware of danger. You may add your Charisma modifier, instead of your Dexterity modifier, to your Armor Class and CMD. Any condition that would cause you to lose your Dexterity modifier to your Armor Class instead causes you to lose your Charisma modifier to your Armor Class.
-## Spells - [Spontaneous](../lib/hr-spontaneous.md)
+## Spells - [Spontaneous](../../lib/hr-spontaneous.md)
 
 |  | 0th | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |---|---|---|---|---|---|---|---|---|---|---|
