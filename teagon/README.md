@@ -1,5 +1,5 @@
 # Teagon
-PF DND Character
+TODO: Backstory
 
 # Race - [Gnome](https://www.d20pfsrd.com/races/core-races/gnome/)
 * **Ability Score Modifiers**: Gnomes are physically weak but surprisingly hardy, and their attitude makes them naturally agreeable. They gain +2 Constitution, +2 Charisma, and –2 Strength.
