@@ -5,7 +5,7 @@ These rules are designed to put spontaneous casters on the small footing as prep
 
 | Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |---|---|---|---|---|---|---|---|---|---|
-| <span style="color:green"> 1st </span> | 3 | - | - | - | - | - | - | - | - |
+| 1st| 3 | - | - | - | - | - | - | - | - |
 | 2nd | 4 | - | - | - | - | - | - | - | - |
 | 3rd | 5 | 2 | - | - | - | - | - | - | - |
 | 4th | 6 | 3 | - | - | - | - | - | - | - |
