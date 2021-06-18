@@ -12,3 +12,4 @@ This folder is for breaking out static markdown that will be reused across multi
 
 ## Additional Content
 * [Moon Spells](./moon-spells.md)
+* [Ability Tattoos](./ability-tattoos.md)
