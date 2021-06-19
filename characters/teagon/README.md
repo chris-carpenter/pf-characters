@@ -35,3 +35,13 @@ TODO: Backstory
 
 ## Feats
 * [Extra Revelation](https://www.d20pfsrd.com/feats/general-feats/extra-revelation-1/) - [Nature’s Whispers](https://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/nature/)
+
+## Skills
+* Diplomacy
+* Use Magic Device
+* Knowledge(Nature)
+* Heal
+* Spellcraft
+
+* Craft(Armor)
+* Linguistics
