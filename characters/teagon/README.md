@@ -1,5 +1,24 @@
 # Teagon
-TODO: Backstory
+Teagon is a gnome nature oracle(elementalist). Teagon wanted to "experiment" with a recipe found in the university forbidden library, but after being strictly told to not experiment indoors decided to use the green space next to the university. The "green space" was in fact the shrine garden of the neighboring temple. Temple to whom you might ask? Teagan certainly didn't know and neither shall you.
+
+<details><summary>Outline</summary>
+
+* Burned down the garden shrine of the temple next to the university, by using a recipe found in the forbidden section 
+of the university library. He got access with his charm and words.
+    * Academician
+    * Dangerously Curious
+    * Gift of Tongues / Diplomacy
+* Kicked out of university after burning down the garden shrine of the temple next to the university.
+    * Had a track record of mischief
+* As part of burning down the garden, the deity cursed him and inadvertently made him oracle touched.
+    * Part of this curse was a change in his coloration from reds, and yellows with blue eyes to greens and browns with blue eyes.
+    * Curse / Mystery background
+* Very spiteful about being cursed.
+    * Just fluff
+* With nothing to his name and no prospects, Teagon wandered the land healing anyone who needed his help (while undercutting the local temples prices)
+    * Frontier Healer
+    * Background skill Knowledge(Geography)  
+</details>
 
 # Race - [Gnome](https://www.d20pfsrd.com/races/core-races/gnome/)
 <details>
@@ -37,23 +56,22 @@ TODO: Backstory
 
 |Metric|Value|
 |---|---|
-|HP|11|
+|HP|19|
 |AC|21|
-|CMD|13/7FL|
+|CMD|14/8FL|
 |Fort|+2|
 |Reflex|-1|
-|Will|1|
+|Will|2|
 |Init|-1|
 </td></tr>
 </table>
-Gauntlet, Spiked: `-4 1d3-1`
+Gauntlet, Spiked: `-3 1d3-1`
 
 #### Reminders
 * +2 vs death effects
 
 # Oracle(Elementalist)
-* **Level**: 1
-* **HP**: 11
+* **Level**: 2
 * **Archetypes**: [Elementalist](https://www.d20pfsrd.com/classes/base-classes/oracle/archetypes/paizo-oracle-archetypes/elementalist-oracle)
 * **Mystery**: [Nature](https://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/nature/)
 * **Curse**: [Blackened](https://www.d20pfsrd.com/classes/base-classes/Oracle/oracle-curses/#Blackened)
@@ -64,11 +82,11 @@ Gauntlet, Spiked: `-4 1d3-1`
 
 |  | 0th | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Spells / day | * | 3 | - | - | - | - | - | - | - | - |
-| Spells known | 4 | 2 | - | - | - | - | - | - | - | - |
+| Spells / day | * | 6 | - | - | - | - | - | - | - | - |
+| Spells known | 5 | 2 | - | - | - | - | - | - | - | - |
 
-* **Orisons** - Create Water, Detect Magic, Enhanced Diplomacy, Light
-* **1st** - Bless, Burning Hands, Celestial Healing, Cure Light Wounds, Shield of Faith
+* **Orisons** - Create Water, Detect Magic, Detect Poison, Enhanced Diplomacy, Light,
+* **1st** - Bless, Burning Hands, Celestial Healing, Charm Animal, Cure Light Wounds, Shield of Faith
 
 ## Feats
 * [Extra Revelation](https://www.d20pfsrd.com/feats/general-feats/extra-revelation-1/) - [Nature’s Whispers](https://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/nature/)
@@ -78,11 +96,11 @@ Gauntlet, Spiked: `-4 1d3-1`
 <tr><th colspan="2">Adventuring</th>
 <th>Background</th></tr>
 <tr><td>
-<details><summary>Diplomacy - 10</summary>
+<details><summary>Diplomacy - 11</summary>
 
 |Type|Value|
 |---|---|
-|Ranks|1|
+|Ranks|2|
 |Class|3|
 |Cha|5|
 |Racial|1|
@@ -96,48 +114,48 @@ Gauntlet, Spiked: `-4 1d3-1`
 |Racial|2|
 </details>
 </td><td>
-<details><summary>Liguistics - 3</summary>
+<details><summary>Liguistics - 4</summary>
 
 |Type|Value|
 |---|---|
-|Ranks|1|
+|Ranks|2|
 |Int|2|
 </details>
 </td></tr>
 <tr><td>
-<details><summary>Heal - 4</summary>
+<details><summary>Heal - 5</summary>
 
 |Type|Value|
 |---|---|
-|Ranks|1|
+|Ranks|2|
 |Class|3|
 |Wis|-1|
 |Racial|1|
 </details>
 </td><td>
-<details><summary>Spellcraft - 6</summary>
+<details><summary>Spellcraft - 7</summary>
 
 |Type|Value|
 |---|---|
-|Ranks|1|
+|Ranks|2|
 |Class|3|
 |Charisma|2|
 </details>
 </td><td>
-<details><summary>Knowledge(Geography) - 6</summary>
+<details><summary>Knowledge(Geography) - 7</summary>
 
 |Type|Value|
 |---|---|
-|Ranks|1|
+|Ranks|2|
 |Class|3|
 |Int|2|
 </details></td></tr>
 <tr><td>
-<details><summary>Knowledge(Nature) - 9</summary>
+<details><summary>Knowledge(Nature) - 10</summary>
 
 |Type|Value|
 |---|---|
-|Ranks|1|
+|Ranks|2|
 |Class|3|
 |Int|2|
 |Racial|2|
@@ -145,16 +163,23 @@ Gauntlet, Spiked: `-4 1d3-1`
 </details>
 
 </td><td>
-<details><summary>Use Magic Device - 10</summary>
+<details><summary>Use Magic Device - 11</summary>
 
 |Type|Value|
 |---|---|
-|Ranks|1|
+|Ranks|2|
 |Class|3|
 |Charisma|5|
 |Trait|1|
 </details>
 </td><td></td></tr>
+</table>
+
+#### Languages
+<table>
+<tr><td>Common</td><td>Gnome</td><td>Sylvan</td><td>Draconic</td></tr>
+<tr><td>Dwarven</td><td>Hallit</td><td>Elven</td><td>Ignan</td></tr>
+<tr><td>Goblin</td><td>Undercommon</td><td></td><td></td></tr>
 </table>
 
 ## Items
