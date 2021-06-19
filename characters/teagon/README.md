@@ -35,7 +35,7 @@ TODO: Backstory
 
 </td><td>
 
-|||
+|Metric|Value|
 |---|---|
 |HP|11|
 |AC|21|
