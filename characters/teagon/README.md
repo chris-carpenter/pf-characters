@@ -52,7 +52,9 @@ TODO: Backstory
 ## Skills
 ### Adventuring
 <table>
-<tr><th>
+<tr><th colspan="2">Adventuring</th>
+<th>Background</th></tr>
+<tr><td>
 <details><summary>Diplomacy - 10</summary>
 
 |Type|Value|
@@ -62,7 +64,7 @@ TODO: Backstory
 |Cha|5|
 |Racial|1|
 </details>
-</th><th>
+</td><td>
 <details><summary>Perception - 1</summary>
 
 |Type|Value|
@@ -70,8 +72,16 @@ TODO: Backstory
 |Wis|-1|
 |Racial|2|
 </details>
-</th></tr>
-<tr><th>
+</td><td>
+<details><summary>Liguistics - 3</summary>
+
+|Type|Value|
+|---|---|
+|Ranks|1|
+|Int|2|
+</details>
+</td></tr>
+<tr><td>
 <details><summary>Heal - 4</summary>
 
 |Type|Value|
@@ -81,7 +91,7 @@ TODO: Backstory
 |Wis|-1|
 |Racial|1|
 </details>
-</th><th>
+</td><td>
 <details><summary>Spellcraft - 6</summary>
 
 |Type|Value|
@@ -90,8 +100,16 @@ TODO: Backstory
 |Class|3|
 |Charisma|2|
 </details>
-</th></tr>
-<tr><th>
+</td><td>
+<details><summary>Knowledge(Geography) - 6</summary>
+
+|Type|Value|
+|---|---|
+|Ranks|1|
+|Class|3|
+|Int|2|
+</details></td></tr>
+<tr><td>
 <details><summary>Knowledge(Nature) - 9</summary>
 
 |Type|Value|
@@ -103,7 +121,7 @@ TODO: Backstory
 |Trait|1|
 </details>
 
-</th><th>
+</td><td>
 <details><summary>Use Magic Device - 10</summary>
 
 |Type|Value|
@@ -113,22 +131,6 @@ TODO: Backstory
 |Charisma|5|
 |Trait|1|
 </details>
-</th></tr>
+</td><td></td></tr>
 </table>
 
-### Background
-<details><summary>Liguistics - 3</summary>
-
-|Type|Value|
-|---|---|
-|Ranks|1|
-|Int|2|
-</details>
-<details><summary>Knowledge(Geography) - 6</summary>
-
-|Type|Value|
-|---|---|
-|Ranks|1|
-|Class|3|
-|Int|2|
-</details>
