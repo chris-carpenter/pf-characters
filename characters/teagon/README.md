@@ -162,3 +162,4 @@ Gauntlet, Spiked: `-4 1d3-1`
 * [Shield, heavy wooden](https://www.d20pfsrd.com/equipment/armor/shield-heavy-wooden-or-steel) - 7g
 * [Gauntlet, Spiked](https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/gauntlet-spiked) -5g
 * [Studded Leather Barding](https://www.d20pfsrd.com/equipment/armor/studded-leather) - 50g
+* [Oracle's Kit](https://www.d20pfsrd.com/equipmenT/goods-and-services/tools-kits/#Kit_Oracle8217s) - 9g
