@@ -50,7 +50,6 @@ TODO: Backstory
 * [Extra Revelation](https://www.d20pfsrd.com/feats/general-feats/extra-revelation-1/) - [Nature’s Whispers](https://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/nature/)
 
 ## Skills
-### Adventuring
 <table>
 <tr><th colspan="2">Adventuring</th>
 <th>Background</th></tr>
