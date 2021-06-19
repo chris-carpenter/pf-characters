@@ -15,10 +15,15 @@ TODO: Backstory
 * **Gift of Tongues**: Gnomes love languages and learning about those they meet. Gnomes with this racial trait gain a +1 bonus on Bluff and Diplomacy checks, and they learn one additional language every time they put a rank in the Linguistics skill. This racial trait replaces defensive training and hatred.
 * **Pyromaniac**: Gnomes with this racial trait are treated as one level higher when casting spells with the fire descriptor, using granted powers of the Fire domain, using the bloodline powers of the fire elemental bloodline or the revelations of the oracle’s flame mystery, and determining the damage of alchemist bombs that deal fire damage (this ability does not give gnomes early access to level-based powers; it only affects the powers they could use without this ability). Gnomes with Charisma scores of 11 or higher also gain the following spell-like abilities: 1/day—dancing lights, flare, prestidigitation, produce flame. The caster level for these effects is equal to the gnome’s level; the DCs are Charisma-based. This racial trait replaces gnome magic and illusion resistance.
 </details>
+
 # Traits
 * **Frontier Healer**: You make your way in life by putting people back together after the rigors of the world take their toll—brewing herbal remedies, setting broken bones, and treating diseases. You gain a +1 trait bonus on all Heal and Knowledge (nature) checks, and one of these skills is always a class skill for you. Any time you restore hit points using the Heal skill or a cure spell (but not with channeled energy, lay on hands, or a magic device such as a potion or wand), you restore 1 additional hit point, plus 1 for every 2 class levels you have beyond 1st.
 * **[Without a Past](https://www.d20pfsrd.com/traits/social-traits/without-a-past/)**: *Linguistics*. You earn +1 trait bonus to Bluff and Linguistics when used to forge documents, and choose one as a class skill.
-# Stats
+# Numbers
+<table>
+<tr><th>Stats</th><th></th></tr>
+<tr><td>
+
 |Stat|Score|Bonus|
 |---|---|---|
 |Str|8|-1|
@@ -27,6 +32,24 @@ TODO: Backstory
 |Int|14|2|
 |Wis|8|-1|
 |Cha|20|5|
+
+</td><td>
+
+|||
+|---|---|
+|HP|11|
+|AC|21|
+|CMD|13/7FL|
+|Fort|+2|
+|Reflex|-1|
+|Will|1|
+|Init|-1|
+</td></tr>
+</table>
+Gauntlet, Spiked: `-4 1d3-1`
+
+#### Reminders
+* +2 vs death effects
 
 # Oracle(Elementalist)
 * **Level**: 1
@@ -134,3 +157,8 @@ TODO: Backstory
 </td><td></td></tr>
 </table>
 
+## Items
+* [Studded Leather](https://www.d20pfsrd.com/equipment/armor/studded-leather) - 25g
+* [Shield, heavy wooden](https://www.d20pfsrd.com/equipment/armor/shield-heavy-wooden-or-steel) - 7g
+* [Gauntlet, Spiked](https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/gauntlet-spiked) -5g
+* [Studded Leather Barding](https://www.d20pfsrd.com/equipment/armor/studded-leather) - 50g
