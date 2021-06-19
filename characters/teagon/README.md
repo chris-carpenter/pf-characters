@@ -82,11 +82,12 @@ Gauntlet, Spiked: `-3 1d3-1`
 
 |  | 0th | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Spells / day | * | 6 | - | - | - | - | - | - | - | - |
+| Spells / day | * | 4 | - | - | - | - | - | - | - | - |
+| Stat Spells  | - | 2 | 1 | 1 | 1 | 1 | - | - | - | - |
 | Spells known | 5 | 2 | - | - | - | - | - | - | - | - |
 
 * **Orisons** - Create Water, Detect Magic, Detect Poison, Enhanced Diplomacy, Light,
-* **1st** - Bless, Burning Hands, Celestial Healing, Charm Animal, Cure Light Wounds, Shield of Faith
+* **1st** - Bless, Burning Hands, Celestial Healing, Charm Animal, Cure Light Wounds
 
 ## Feats
 * [Extra Revelation](https://www.d20pfsrd.com/feats/general-feats/extra-revelation-1/) - [Nature’s Whispers](https://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/nature/)
