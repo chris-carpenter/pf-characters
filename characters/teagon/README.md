@@ -56,52 +56,55 @@ of the university library. He got access with his charm and words.
 
 |Metric|Value|
 |---|---|
-|HP|19|
+|HP|27|
 |AC|21|
-|CMD|14/8FL|
+|CMD|15/8FL|
 |Fort|+2|
 |Reflex|-1|
 |Will|2|
 |Init|-1|
 </td></tr>
 </table>
-Gauntlet, Spiked: `-3 1d3-1`
+Gauntlet, Spiked: `-2 1d3-1`
 
 #### Reminders
 * +2 vs death effects
 
 # Oracle(Elementalist)
-* **Level**: 2
+* **Level**: 3
 * **Archetypes**: [Elementalist](https://www.d20pfsrd.com/classes/base-classes/oracle/archetypes/paizo-oracle-archetypes/elementalist-oracle)
 * **Mystery**: [Nature](https://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/nature/)
 * **Curse**: [Blackened](https://www.d20pfsrd.com/classes/base-classes/Oracle/oracle-curses/#Blackened)
 ## Revelation
 * **[Elemental Linguist](https://www.d20pfsrd.com/classes/base-classes/oracle/archetypes/paizo-oracle-archetypes/elementalist-oracle) (Su)**: At 1st level, you gain a bonus language of your choice from the following list: Aquan, Auran, Ignan, or Terran. At 5th level and every 4 levels thereafter, you may choose another language from this list.
 * **[Nature’s Whispers](https://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/nature/) (Ex)**: You have become so attuned to the whispers of the natural world, from the croaking of frogs to the groaning of great boulders, that your surroundings constantly keep you preternaturally aware of danger. You may add your Charisma modifier, instead of your Dexterity modifier, to your Armor Class and CMD. Any condition that would cause you to lose your Dexterity modifier to your Armor Class instead causes you to lose your Charisma modifier to your Armor Class.
+* **[Bonded Mount](https://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/nature/) (Su)**: You gain the service of an unusually intelligent, strong, and loyal mount. The creature must be one that you are capable of riding and is suitable as a mount. A Medium oracle can select a camel or a horse. A Small oracle can select a pony or wolf, but can also select a boar or a dog if she is at least 4th level. This mount functions as a druid’s animal companion, using your oracle level as your effective druid level. Bonded mounts have an Intelligence score of at least 6. [Faerie Mount](https://www.d20pfsrd.com/classes/core-classes/Druid/animal-companions/#TOC-Faerie-Mount) - [MC]() 
 ## Spells - [Spontaneous](../../lib/hr-spontaneous.md)
 
 |  | 0th | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Spells / day | * | 4 | - | - | - | - | - | - | - | - |
+| Spells / day | * | 5 | 2 | - | - | - | - | - | - | - |
 | Stat Spells  | - | 2 | 1 | 1 | 1 | 1 | - | - | - | - |
-| Spells known | 5 | 2 | - | - | - | - | - | - | - | - |
+| Spells known | 5 | 3 | 1 | - | - | - | - | - | - | - |
 
 * **Orisons** - Create Water, Detect Magic, Detect Poison, Enhanced Diplomacy, Light,
-* **1st** - Bless, Burning Hands, Celestial Healing, Charm Animal, Cure Light Wounds
+* **1st** - Bless, Burning Hands, Celestial Healing, Charm Animal, Cure Light Wounds, Ant Haul
+* **2nd** - Resist Energy
 
 ## Feats
 * [Extra Revelation](https://www.d20pfsrd.com/feats/general-feats/extra-revelation-1/) - [Nature’s Whispers](https://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/paizo-oracle-mysteries/nature/)
+* [Fiery Burst](https://dndtools.net/feats/complete-mage--58/fiery-burst--1123/)
 
 ## Skills
 <table>
 <tr><th colspan="2">Adventuring</th>
 <th>Background</th></tr>
 <tr><td>
-<details><summary>Diplomacy - 11</summary>
+<details><summary>Diplomacy - 12</summary>
 
 |Type|Value|
 |---|---|
-|Ranks|2|
+|Ranks|3|
 |Class|3|
 |Cha|5|
 |Racial|1|
@@ -115,48 +118,48 @@ Gauntlet, Spiked: `-3 1d3-1`
 |Racial|2|
 </details>
 </td><td>
-<details><summary>Liguistics - 4</summary>
+<details><summary>Liguistics - 5</summary>
 
 |Type|Value|
 |---|---|
-|Ranks|2|
+|Ranks|3|
 |Int|2|
 </details>
 </td></tr>
 <tr><td>
-<details><summary>Heal - 5</summary>
+<details><summary>Heal - 6</summary>
 
 |Type|Value|
 |---|---|
-|Ranks|2|
+|Ranks|3|
 |Class|3|
 |Wis|-1|
 |Racial|1|
 </details>
 </td><td>
-<details><summary>Spellcraft - 7</summary>
+<details><summary>Spellcraft - 8</summary>
 
 |Type|Value|
 |---|---|
-|Ranks|2|
+|Ranks|3|
 |Class|3|
 |Charisma|2|
 </details>
 </td><td>
-<details><summary>Knowledge(Geography) - 7</summary>
+<details><summary>Knowledge(Geography) - 8</summary>
 
 |Type|Value|
 |---|---|
-|Ranks|2|
+|Ranks|3|
 |Class|3|
 |Int|2|
 </details></td></tr>
 <tr><td>
-<details><summary>Knowledge(Nature) - 10</summary>
+<details><summary>Knowledge(Nature) - 11</summary>
 
 |Type|Value|
 |---|---|
-|Ranks|2|
+|Ranks|3|
 |Class|3|
 |Int|2|
 |Racial|2|
@@ -164,11 +167,11 @@ Gauntlet, Spiked: `-3 1d3-1`
 </details>
 
 </td><td>
-<details><summary>Use Magic Device - 11</summary>
+<details><summary>Use Magic Device - 12</summary>
 
 |Type|Value|
 |---|---|
-|Ranks|2|
+|Ranks|3|
 |Class|3|
 |Charisma|5|
 |Trait|1|
@@ -180,7 +183,7 @@ Gauntlet, Spiked: `-3 1d3-1`
 <table>
 <tr><td>Common</td><td>Gnome</td><td>Sylvan</td><td>Draconic</td></tr>
 <tr><td>Dwarven</td><td>Hallit</td><td>Elven</td><td>Ignan</td></tr>
-<tr><td>Goblin</td><td>Undercommon</td><td></td><td></td></tr>
+<tr><td>Goblin</td><td>Undercommon</td><td>Giant</td><td>Gnoll</td></tr>
 </table>
 
 ## Items
