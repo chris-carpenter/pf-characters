@@ -146,13 +146,13 @@ Gauntlet, Spiked: `-2 1d3-1`
 |Charisma|2|
 </details>
 </td><td>
-<details><summary>Knowledge(Geography) - 8</summary>
+<details><summary>Handle Animal - 11</summary>
 
 |Type|Value|
 |---|---|
 |Ranks|3|
 |Class|3|
-|Int|2|
+|Cha|5|
 </details></td></tr>
 <tr><td>
 <details><summary>Knowledge(Nature) - 11</summary>
