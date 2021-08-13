@@ -19,9 +19,9 @@ Short legs and overlarge ears make this broad-chested canine seem almost comical
 
 |Stat|Score|Bonus|
 |---|---|---|
-|Str|10|0|
-|Dex|13|1|
-|Con|15|2|
+|Str|14|2|
+|Dex|11|0|
+|Con|18|4|
 |Int|6|-2|
 |Wis|13|1|
 |Cha|12|1|
@@ -30,18 +30,24 @@ Short legs and overlarge ears make this broad-chested canine seem almost comical
 
 |Metric|Value|
 |---|---|
-|HP|19|
-|AC|15|
-|CMD|12/11FL|
-|Fort|+5|
-|Reflex|+4|
+|HP|32|
+|AC|16/16FL|
+|CMD|15/15FL|
+|Fort|+6|
+|Reflex|+5|
 |Will|+2|
 |Init|+1|
 </td></tr>
 </table>
-Attack - +3 1d4
+Attack - +5 1d6+2
  
-Perception - +7
+Perception - +8
+
+### Special Qualities
+Low-Light Vision, Scent, Stability, Sure-Footed
 
 ### Special
 Link, share spells, Evasion
+
+### Feats
+Light Armor Proficency, Medium Armor Proficency
