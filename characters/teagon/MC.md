@@ -19,8 +19,8 @@ Short legs and overlarge ears make this broad-chested canine seem almost comical
 
 |Stat|Score|Bonus|
 |---|---|---|
-|Str|9|-1|
-|Dex|12|1|
+|Str|10|0|
+|Dex|13|1|
 |Con|15|2|
 |Int|6|-2|
 |Wis|13|1|
@@ -39,7 +39,7 @@ Short legs and overlarge ears make this broad-chested canine seem almost comical
 |Init|+1|
 </td></tr>
 </table>
-Attack - +2 1d4-1
+Attack - +3 1d4
  
 Perception - +7
 
