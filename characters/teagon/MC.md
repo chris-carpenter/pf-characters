@@ -50,4 +50,4 @@ Low-Light Vision, Scent, Stability, Sure-Footed
 Link, share spells, Evasion
 
 ### Feats
-Light Armor Proficency, Medium Armor Proficency
+Light Armor Proficency, Medium Armor Proficency, Nimble Moves (Sure-Footed)
