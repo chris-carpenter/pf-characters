@@ -30,8 +30,8 @@ Short legs and overlarge ears make this broad-chested canine seem almost comical
 
 |Metric|Value|
 |---|---|
-|HP|32|
-|AC|16/16FL|
+|HP|40|
+|AC|22/22FL|
 |CMD|15/15FL|
 |Fort|+6|
 |Reflex|+5|
@@ -50,4 +50,4 @@ Low-Light Vision, Scent, Stability, Sure-Footed
 Link, share spells, Evasion
 
 ### Feats
-Light Armor Proficency, Medium Armor Proficency, Nimble Moves (Sure-Footed)
+Light Armor Proficency, Medium Armor Proficency, Heavy Armor Proficency, Nimble Moves (Sure-Footed)
